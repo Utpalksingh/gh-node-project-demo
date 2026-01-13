@@ -9,3 +9,6 @@ jobs:
 
             - name: show date
               run: date
+            
+            - name: show node version
+              run: node -v
